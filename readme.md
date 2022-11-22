@@ -10,7 +10,7 @@
 
 ## ScreenShots
 
-![pic 1](./images/WordCounterApp%20-%20Google%20Chrome%2022-11-2022%2020_34_34.png`)
+![pic 1](./WordCounterApp%20-%20Google%20Chrome%2022-11-2022%2020_34_34.png)
 
 ---
 
@@ -28,4 +28,4 @@
 
 ## Live link
 
-- [Word Counter App]()
+- [Word Counter App](https://js-assig-2-word-counter-app.netlify.app/)
