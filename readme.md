@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/JS-Word_Counter_App-orange)
 
-# Project: See What You Type
+# Project: Word Counter App
 
 ## Task
 
-- Here we have to make a Word counter with HTML,CSS and JS in a way, whhen after typing in text area it should show total number of words and total number of characters.
+- Here we have to make a word counter with HTML,CSS and JS in a way, when after typing in text area, it should show total number of words and total number of characters.
 
 ---
 
